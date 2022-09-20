@@ -53,4 +53,4 @@ window = Window()
 window.show()
 sys.exit(app.exec())
 
-print("xd")
+
